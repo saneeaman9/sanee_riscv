@@ -159,8 +159,6 @@ For the consecutive labs, we will use the "RISC-V lab starting point code" from 
 
 Use the following links : [Link for the starter code](https://myth.makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fstevehoover%2FRISC-V_MYTH_Workshop%2Fmaster%2Frisc-v_shell.tlv#)
 
-All the code files are located within the "DAY4" folder : [Link to DAY4 ](https://github.com/Pavan2280/RISC-V/tree/main/DAY4)
-
 #### 1. Program Counter
 ![1](https://github.com/saneeaman9/sanee_riscv/assets/75088597/fcb9f75d-d2bb-4ac6-a703-36cab14637e3)
 
