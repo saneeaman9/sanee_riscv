@@ -15,37 +15,45 @@ Head over to the [MakerChip IDE](https://www.makerchip.com/)
 
 ### A) Inverter
 
-1
+![1](https://github.com/saneeaman9/sanee_riscv/assets/75088597/7984fed0-0c5e-4a5d-a3dc-682cd89a276d)
 
-2
+
+![2](https://github.com/saneeaman9/sanee_riscv/assets/75088597/c6fb9025-3f66-4658-97f2-c933ec2750d0)
+
 
 ### XOR Gate using Boolean Operator.
 
-3
+![3](https://github.com/saneeaman9/sanee_riscv/assets/75088597/925c331b-2d09-4b42-a52a-76e819a6a9a8)
+
 
 ### C) Vectors
 
-4
+![4](https://github.com/saneeaman9/sanee_riscv/assets/75088597/7699352f-a192-4245-8b99-ce22b6fdbd9f)
+
 
 ### D) Mux
 
-5
+![5](https://github.com/saneeaman9/sanee_riscv/assets/75088597/1095a452-0d39-48fa-a999-354503c91e71)
+
 
 ### E) Simple Calculator
+![6](https://github.com/saneeaman9/sanee_riscv/assets/75088597/5ac55944-ccde-4d6d-ba1d-8582ce407e9f)
 
-6
 
 ### F) Fibonacci Series
 
-7
+![7](https://github.com/saneeaman9/sanee_riscv/assets/75088597/66bc4b74-a631-4cc7-a163-f4d100c9469c)
+
 
 ### G) Up Counter
 
-8
+![8](https://github.com/saneeaman9/sanee_riscv/assets/75088597/8adad9e4-7654-43fd-8a7b-b22561d6fc62)
+
 
 ### I) Sequential Calc
 
-9
+![9](https://github.com/saneeaman9/sanee_riscv/assets/75088597/b21d7273-2812-46ff-b443-ffff8bdc6dd1)
+
 
 ### I) Pipelined Logic
 
@@ -68,11 +76,13 @@ Head over to the [MakerChip IDE](https://www.makerchip.com/)
 
 ```
 
-10
+![10](https://github.com/saneeaman9/sanee_riscv/assets/75088597/45e59958-5d3d-43c0-92ed-a493c634b43a)
+
 
 ### J) Pipeline Implementation example.
 
-11
+![11](https://github.com/saneeaman9/sanee_riscv/assets/75088597/aed76443-b791-4e7a-b163-83a6220d99dd)
+
 
 ### Validity
 
@@ -84,15 +94,18 @@ Head over to the [MakerChip IDE](https://www.makerchip.com/)
 
 ### K) 2 Cycle Calc with Validity.
 
-12
+![12](https://github.com/saneeaman9/sanee_riscv/assets/75088597/402c789a-e5e7-444c-98ce-7358d54ce6c7)
+
 
 ### L) Distance Calc.
 
-13
+![13](https://github.com/saneeaman9/sanee_riscv/assets/75088597/b7dfc9cd-f88a-4b77-8085-214a9ca0acb0)
+
 
 ### Calculator Memory
 
-14
+![14](https://github.com/saneeaman9/sanee_riscv/assets/75088597/8d01f876-87b9-42da-b24d-0b799a10c5a5)
+
 
 
 
